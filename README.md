@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+My name is Ethan Ho and I am a first year Computer Science major at UCI!
+
+🔭 I’m currently working on completing the ICSSC fellowship and learning web development.  
+🌱 I’m currently learning `.py`, `.js` and `.ts`  
+⚡ Fun fact: I enjoy drinking tea and running (though not necessarily at the same time)  
+My [LinkedIn](https://www.linkedin.com/in/ethan-ho-bb5099210/) and [email](mailto:hoea2@uci.edu) are available for quick contact.
 <!--
 **h0ethan04/h0ethan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
