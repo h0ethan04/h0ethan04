@@ -1,6 +1,6 @@
-### Hi there 👋
+### Hi there! My name is Ethan Ho and I am a first year Computer Science major at UCI!
 
-My name is Ethan Ho and I am a first year Computer Science major at UCI!
+
 I enjoy drinking tea and running (_though not necessarily at the same time_).
 I'm also a huge fan of dad jokes and wordplay.
 
