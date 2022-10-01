@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 My name is Ethan Ho and I am a first year Computer Science major at UCI!
-I enjoy drinking tea and running (though not necessarily at the same time).
+I enjoy drinking tea and running (_though not necessarily at the same time_).
 I'm also a huge fan of dad jokes and wordplay.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
@@ -10,7 +10,7 @@ I'm also a huge fan of dad jokes and wordplay.
 🌱 I’m currently learning `.py`, `.js` and `.ts`  
 ⚡ Fun fact: I am training for the California International Marathon.
 
-My [LinkedIn](https://www.linkedin.com/in/ethan-ho-bb5099210/) and [email](mailto:hoea2@uci.edu) are available for quick contact.
+My [**LinkedIn**](https://www.linkedin.com/in/ethan-ho-bb5099210/) and [**email**](mailto:hoea2@uci.edu) are available for quick contact.
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=h0ethan04&left_color=green&right_color=red)
                 
