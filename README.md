@@ -6,6 +6,7 @@ I'm also a huge fan of dad jokes and wordplay.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+
 🔭 I’m currently working on completing the ICSSC fellowship and learning web development.  
 🌱 I’m currently learning `.py`, `.js` and `.ts`  
 ⚡ Fun fact: I am training for the California International Marathon.
