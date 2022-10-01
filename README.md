@@ -1,7 +1,7 @@
 ### Hi there! My name is Ethan Ho and I am a first year Computer Science major at UCI!
 
 I'm interested in working on becoming a full stack developer by combining my classes and extracurricular activities.
-I enjoy drinking tea and running (*though not necessarily at the same time*), and
+I enjoy drinking boba tea or matcha and running (*though not necessarily at the same time*), and
 I'm also a huge fan of dad jokes and wordplay.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
