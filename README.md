@@ -8,7 +8,7 @@ I'm also a huge fan of dad jokes and wordplay.
 
 
 🔭 I’m currently working on completing the ICSSC fellowship and learning web development.  
-🌱 I’m currently learning `.py`, `.js` and `.ts`  
+🌱 I’m currently learning `.py`, `.cpp` and `.java`  
 ⚡ Fun fact: I competed in the 2023 California International Marathon and finished in 3:36
 
 My [**LinkedIn**](https://www.linkedin.com/in/ethan-ho-bb5099210/) and [**email**](mailto:hoea2@uci.edu) are available for quick contact.
