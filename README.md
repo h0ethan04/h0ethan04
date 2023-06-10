@@ -13,7 +13,7 @@ I'm also a huge fan of dad jokes and wordplay.
 
 My [**LinkedIn**](https://www.linkedin.com/in/ethan-ho-bb5099210/) and [**email**](mailto:hoea2@uci.edu) are available for quick contact.
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=h0ethan04&left_color=green&right_color=red)
+<!-- ![visitors](https://visitor-badge.glitch.me/badge?page_id=h0ethan04&left_color=green&right_color=red) -->
                 
 <!--
 **h0ethan04/h0ethan04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
