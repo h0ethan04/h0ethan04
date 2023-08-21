@@ -8,7 +8,7 @@ I'm also a huge fan of dad jokes and wordplay.
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
-🔭 I’m currently working on completing the ICSSC fellowship and learning web development.  
+🔭 I’m currently working on DSA and web dev.  
 🌱 I’m currently learning `.py`, `.cpp` and `.java`  
 ⚡ Fun fact: I competed in the 2023 California International Marathon and finished in 3:36
 
