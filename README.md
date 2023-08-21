@@ -1,7 +1,8 @@
-### Hi there! My name is Ethan Ho and I am a first year Computer Science major at UCI!
+### Hi there! My name is Ethan Ho and I am a second year Computer Science major at UCI!
 
 I'm interested in working on becoming a full stack developer by combining my classes and extracurricular activities.
-I enjoy drinking boba tea and matcha, and try to hit the gym every so often. 
+I enjoy drinking boba tea and matcha, and am working on calisthenics skills.
+I enjoy going to the gym, going out to eat at KBBQ and destroying my heart by eating greasy food.
 I'm also a huge fan of dad jokes and wordplay.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
