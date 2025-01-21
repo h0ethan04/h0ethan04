@@ -1,4 +1,4 @@
-### Hi there! My name is Ethan Ho and I am a second year Computer Science major at UCI!
+### Hi there! My name is Ethan Ho and I am a third year Computer Science major at UCI!
 
 I'm interested in working on becoming a full stack developer by combining my classes and extracurricular activities.
 I suffer from a mild caffeine addiction -- I prefer black, green, milk and matcha teas over coffee, but prefer black coffee over fruit teas.
