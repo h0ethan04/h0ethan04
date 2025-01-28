@@ -6,7 +6,7 @@ I enjoy going to the gym, biking, hiking and experimenting with new recipes in t
 I'm also a huge fan of dad jokes and wordplay.
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
-
+<!-- not sure why but the jokes card is tiny now -->
 🔭 I’m currently working on systems programming and web dev.  
 🌱 I’m currently learning `.java`, `.js`, `.py`, `.c` and `.cpp`  
 ⚡ Fun fact: I competed in the 2023 California International Marathon and finished in 3:36
