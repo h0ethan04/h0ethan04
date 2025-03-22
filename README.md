@@ -16,7 +16,7 @@ Some of my current projects include:
 <!-- not sure why but the jokes card is tiny now -->
 🔭 I’m currently working on systems programming and web dev.  
 🌱 I’m currently learning `.java`, `.js`, `.py`, `.c` and `.cpp`  
-⚡ Fun fact: I competed in the 2023 California International Marathon and finished in 3:36!
+⚡ Fun fact: I competed in the 2022 California International Marathon and finished in 3:36!
 
 My [**LinkedIn**](https://www.linkedin.com/in/h0ethan04/) and [**email**](mailto:hoea2@uci.edu) are available for quick contact.
 
