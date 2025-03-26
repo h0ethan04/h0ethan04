@@ -2,7 +2,8 @@
 
 I'm working on becoming a well rounded developer by combining my classes and extracurricular activities.
 I suffer from a ~~severe~~ mild caffeine addiction -- I currently make my own cold brew and enjoy matchas and macchiatos.
-I enjoy going to the gym, biking, hiking and experimenting with new recipes in the kitchen.
+When I'm not fooling around with microcontrollers and other tech I enjoy going to the gym, biking, hiking and experimenting with new recipes in the kitchen.
+On weekends I destroy my sleep schedule keeping up with motorsports (F1 and MotoGP, some WRC and Isle of Man TT).
 I'm also a huge fan of dad jokes and wordplay.
 
 Some of my current projects include:
