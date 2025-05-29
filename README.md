@@ -1,7 +1,7 @@
 ### Hi there! My name is Ethan Ho and I am a third year Computer Science major at UCI!
 
 I'm working on becoming a well rounded developer by combining my classes and extracurricular activities.
-I suffer from a ~~severe~~ mild caffeine addiction -- I currently make my own cold brew and enjoy matchas and macchiatos.
+I suffer from a ~~severe~~ mild caffeine addiction -- I currently make my own cold brew and enjoy specialty milk drinks, matchas and macchiatos.
 When I'm not fooling around with microcontrollers and other tech I enjoy going to the gym, biking, hiking and experimenting with new recipes in the kitchen.
 On weekends I destroy my sleep schedule keeping up with motorsports (F1 and MotoGP, some WRC and Isle of Man TT).
 I'm also a huge fan of dad jokes and wordplay.
