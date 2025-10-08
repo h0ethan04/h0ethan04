@@ -6,12 +6,12 @@ When I'm not fooling around with microcontrollers and other tech I enjoy going t
 On weekends I destroy my sleep schedule keeping up with motorsports (F1 and MotoGP, some WRC and Isle of Man TT).
 I'm also a huge fan of dad jokes and wordplay.
 
-Some of my current projects include:
+Some of my projects include:
 
-- Turning a RPI Zero 2 W into a DAP
 - EdStem API npm package in `.js`
-- Internal Tooling for [Center Stage LA](https://www.cstagela.com)
+- Internal Tooling for [Center Stage LA](https://www.cstagela.com) 
 - Ricing my desktop (Fedora 41 KDE w/ Catppuccin) and adding too many plugins to Neovim 
+- Breaking my Arch Linux instance
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 <!-- not sure why but the jokes card is tiny now -->
