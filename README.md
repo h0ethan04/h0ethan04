@@ -1,4 +1,4 @@
-### Hi there! My name is Ethan Ho and I am a third year Computer Science major at UCI!
+### Hi there! My name is Ethan Ho and I am a fourth year Computer Science major at UCI!
 
 I'm working on becoming a well rounded developer by combining my classes and extracurricular activities.
 I suffer from a ~~severe~~ mild caffeine addiction -- I currently make my own cold brew and enjoy specialty milk drinks, matchas and macchiatos.
@@ -10,7 +10,7 @@ Some of my projects include:
 
 - EdStem API npm package in `.js`
 - Internal Tooling for [Center Stage LA](https://www.cstagela.com) 
-- Ricing my desktop (Fedora 41 KDE w/ Catppuccin) and adding too many plugins to Neovim 
+- Ricing my desktop (Fedora 42 KDE w/ Catppuccin) and adding too many plugins to Neovim 
 - Breaking my Arch Linux instance
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
